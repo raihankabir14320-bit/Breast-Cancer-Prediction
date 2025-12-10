@@ -36,6 +36,12 @@ KNN Model Performance
 
 Accuracy: 0.9649
 
+
+Files
+
+Dataset (1).csv: The raw dataset used for analysis.
+
+Breast_Cancer_Prediction.ipynb: The Google Colab notebook containing the code.
 Precision:  0.9535
 
 Recall: 0.9649
